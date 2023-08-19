@@ -1,7 +1,5 @@
 [![Website](https://img.shields.io/website?label=3ndless_____&style=for-the-badge&url=https%3A%2F%2Finstagram.com/3ndless_____)](https://www.instagram.com/3ndless_____/)
 
-[![Website](https://img.shields.io/website?label=3ndless_____&style=for-the-badge&url=https://twitter.com/3ndless_____)](https://twitter.com/3ndless_____)
-
 
 <div align="center">
   <h1 align="center" style="color:orange">Pikaaa 👋</h1>
